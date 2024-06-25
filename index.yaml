@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginx-web-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-06-24T16:26:39.4510031+05:30"
+    description: A Helm chart for Kubernetes
+    digest: ba7062b63f6e982a8eda390d0f29e230e72097bdba9fd4f071f60db5376aeaf4
+    name: nginx-web-app
+    type: application
+    urls:
+    - https://hub.docker.com/repository/docker/chatlearning123/my-helm-charts/nginx-web-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-06-24T16:26:39.450308547+05:30"
